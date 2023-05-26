@@ -8,6 +8,7 @@ export default function Welcome() {
             <div className="flex justify-around text-4xl">
                 <div>Welcome page</div>
                 <Link href="/dashboard">Dashboard</Link>
+                <Link href="/users">Users</Link>
             </div>
         </div>
     );
