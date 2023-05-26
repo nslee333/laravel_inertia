@@ -9,6 +9,7 @@ export default function Welcome() {
                 <div>Welcome page</div>
                 <Link href="/dashboard">Dashboard</Link>
                 <Link href="/users">Users</Link>
+                <Link href="/admin">Admin</Link>
             </div>
         </div>
     );
